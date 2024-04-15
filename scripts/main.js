@@ -1,5 +1,6 @@
 lancerJeu()
 
+
 /**
  Ici, ce sont des console.log pour vérifier que les éléments du DOM sont bien récupérés.
  On peut les commenter ou les supprimer une fois qu'on a vérifié que tout fonctionne bien.
